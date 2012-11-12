@@ -117,8 +117,7 @@ get_header();
 <?php
 endwhile;
 wp_reset_query(); 
-?>
-		
+?>		
 				<!--White Box Wrapper Ends-->
 			</div>
 			<div class="graybox_bottom">
